@@ -1,0 +1,16 @@
+ 1011  git status
+ 1012  cd ../
+ 1013  git status
+ 1014  git add .
+ 1015  git commit -m "Add additional endpoints to HomeController" -m "In this commit, I have added two new endpoints to the HomeController class:\n\n1. GET mapping for "/home" in the homeControllerHandler2 method.\n   - This endpoint returns the string "this is home controller2" when accessed.\n\n2. GET mapping for "/codewithneeraj" in the homeControllerHandler3 method.\n   - This endpoint returns the string "Hello code with neeraj sharma" when accessed.\n\nThese additions enhance the functionality of the HomeController and provide more options for handling different requests."
+ 1016  git log
+ 1017  git status
+ 1018  git push origin dev
+ 1019  git branch
+ 1020  git log
+ 1021  git status
+ 1022  git branch
+ 1023  git status
+ 1024  git push origin dev
+ 1025  git push  dev
+ 1026  git push dev
