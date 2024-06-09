@@ -1,2 +1,2 @@
 # SocialFrame
-Social Networking  App by Neeraj Sharma
+Social Networking  App by Neeraj  Sharma
